@@ -1,0 +1,5 @@
+This is a test invoice document for testing the file system watcher.
+
+Invoice #: INV-2026-001
+Amount: $500.00
+Due Date: 2026-04-01
