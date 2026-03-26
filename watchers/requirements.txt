@@ -1,3 +1,16 @@
 # Watchers dependencies
-# No external dependencies required - uses only Python standard library
-# Python 3.8+ required
+# Install with: pip install -r requirements.txt
+
+# Base dependencies (no external deps - uses Python standard library)
+
+# Gmail Watcher
+google-auth==2.27.0
+google-auth-oauthlib==1.2.0
+google-auth-httplib2==0.2.0
+google-api-python-client==2.118.0
+
+# LinkedIn Watcher
+playwright==1.42.0
+
+# Optional: File system watcher (if using watchdog)
+# watchdog==4.0.0

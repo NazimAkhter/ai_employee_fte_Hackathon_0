@@ -1,0 +1,147 @@
+2026-03-25 01:46:58,376 - GmailWatcher - INFO - Starting OAuth flow...
+2026-03-25 01:48:15,369 - GmailWatcher - INFO - Starting OAuth flow...
+2026-03-25 01:52:23,390 - GmailWatcher - INFO - OAuth token saved to E:\GIAIC\Quarter-04\ai_employee_fte_Hackathon_0\watchers\token.json
+2026-03-25 01:52:23,469 - GmailWatcher - INFO - Gmail service initialized
+2026-03-25 01:52:23,479 - GmailWatcher - INFO - Gmail credentials: E:\GIAIC\Quarter-04\ai_employee_fte_Hackathon_0\credentials.json
+2026-03-25 01:52:23,479 - GmailWatcher - INFO - Gmail token: E:\GIAIC\Quarter-04\ai_employee_fte_Hackathon_0\watchers\token.json
+2026-03-25 01:52:23,485 - GmailWatcher - INFO - Starting GmailWatcher
+2026-03-25 01:52:23,486 - GmailWatcher - INFO - Vault path: ..\AI_Employee_Vault
+2026-03-25 01:52:23,487 - GmailWatcher - INFO - Check interval: 120s
+2026-03-25 01:58:20,708 - GmailWatcher - INFO - GmailWatcher stopped by user
+2026-03-25 03:50:10,562 - GmailWatcher - INFO - Loaded existing OAuth token
+2026-03-25 03:50:11,741 - GmailWatcher - INFO - Refreshed OAuth token
+2026-03-25 03:50:11,775 - GmailWatcher - INFO - Gmail service initialized
+2026-03-25 03:50:11,776 - GmailWatcher - INFO - Gmail credentials: E:\GIAIC\Quarter-04\ai_employee_fte_Hackathon_0\credentials.json
+2026-03-25 03:50:11,776 - GmailWatcher - INFO - Gmail token: E:\GIAIC\Quarter-04\ai_employee_fte_Hackathon_0\watchers\token.json
+2026-03-25 03:50:11,779 - GmailWatcher - INFO - Starting GmailWatcher
+2026-03-25 03:50:11,779 - GmailWatcher - INFO - Vault path: ..\AI_Employee_Vault
+2026-03-25 03:50:11,780 - GmailWatcher - INFO - Check interval: 120s
+2026-03-25 03:50:12,972 - GmailWatcher - INFO - Found 2 new messages
+2026-03-25 03:50:12,973 - GmailWatcher - INFO - Found 2 new item(s)
+2026-03-25 03:50:13,692 - GmailWatcher - INFO - Created action file for email: Security alert
+2026-03-25 03:50:13,693 - GmailWatcher - INFO - Created action file: EMAIL_Security alert_20260325_035013.md
+2026-03-25 03:50:14,399 - GmailWatcher - INFO - Created action file for email: Security alert
+2026-03-25 03:50:14,400 - GmailWatcher - INFO - Created action file: EMAIL_Security alert_20260325_035014.md
+2026-03-25 03:54:15,154 - GmailWatcher - INFO - Found 1 new messages
+2026-03-25 03:54:15,155 - GmailWatcher - INFO - Found 1 new item(s)
+2026-03-25 03:54:15,994 - GmailWatcher - INFO - Created action file for email: Greeting
+2026-03-25 03:54:15,995 - GmailWatcher - INFO - Created action file: EMAIL_Greeting_20260325_035415.md
+2026-03-25 04:00:10,518 - GmailWatcher - INFO - GmailWatcher stopped by user
+2026-03-26 02:07:56,147 - GmailWatcher - INFO - Loaded 3 processed message IDs from cache
+2026-03-26 02:07:56,167 - GmailWatcher - INFO - Loaded existing OAuth token
+2026-03-26 02:07:57,502 - GmailWatcher - INFO - Refreshed OAuth token
+2026-03-26 02:07:57,644 - GmailWatcher - INFO - Gmail service initialized
+2026-03-26 02:07:57,645 - GmailWatcher - INFO - Gmail credentials: E:\GIAIC\Quarter-04\ai_employee_fte_Hackathon_0\credentials.json
+2026-03-26 02:07:57,646 - GmailWatcher - INFO - Gmail token: E:\GIAIC\Quarter-04\ai_employee_fte_Hackathon_0\watchers\token.json
+2026-03-26 02:07:57,648 - GmailWatcher - INFO - Starting GmailWatcher
+2026-03-26 02:07:57,649 - GmailWatcher - INFO - Vault path: ..\AI_Employee_Vault
+2026-03-26 02:07:57,650 - GmailWatcher - INFO - Check interval: 120s
+2026-03-26 02:07:58,867 - GmailWatcher - INFO - Found 1 new messages
+2026-03-26 02:07:58,868 - GmailWatcher - INFO - Found 1 new item(s)
+2026-03-26 02:07:59,642 - GmailWatcher - INFO - Created action file for email: Greeting !
+2026-03-26 02:07:59,643 - GmailWatcher - INFO - Created action file: EMAIL_Greeting !_20260326_020759.md
+2026-03-26 03:00:07,983 - GmailWatcher - INFO - Found 1 new messages
+2026-03-26 03:00:07,994 - GmailWatcher - INFO - Found 1 new item(s)
+2026-03-26 03:00:08,866 - GmailWatcher - INFO - Created action file for email: Greeting
+2026-03-26 03:00:08,869 - GmailWatcher - INFO - Created action file: EMAIL_Greeting_20260326_030008.md
+2026-03-26 03:03:18,724 - GmailWatcher - INFO - GmailWatcher stopped by user
+2026-03-27 00:34:09,028 - GmailWatcher - INFO - Loaded 5 processed message IDs from cache
+2026-03-27 00:34:09,052 - GmailWatcher - INFO - Loaded existing OAuth token
+2026-03-27 00:34:10,306 - GmailWatcher - INFO - Refreshed OAuth token
+2026-03-27 00:34:10,377 - GmailWatcher - INFO - Gmail service initialized
+2026-03-27 00:34:10,377 - GmailWatcher - INFO - Gmail credentials: E:\GIAIC\Quarter-04\ai_employee_fte_Hackathon_0\credentials.json
+2026-03-27 00:34:10,378 - GmailWatcher - INFO - Gmail token: E:\GIAIC\Quarter-04\ai_employee_fte_Hackathon_0\watchers\token.json
+2026-03-27 00:34:10,380 - GmailWatcher - INFO - Starting GmailWatcher
+2026-03-27 00:34:10,380 - GmailWatcher - INFO - Vault path: ..\AI_Employee_Vault
+2026-03-27 00:34:10,381 - GmailWatcher - INFO - Check interval: 120s
+2026-03-27 00:42:33,763 - GmailWatcher - INFO - GmailWatcher stopped by user
+2026-03-27 00:47:06,632 - GmailWatcher - INFO - Loaded 5 processed message IDs from cache
+2026-03-27 00:47:06,637 - GmailWatcher - INFO - Loaded existing OAuth token
+2026-03-27 00:47:08,901 - GmailWatcher - INFO - Refreshed OAuth token
+2026-03-27 00:47:08,921 - GmailWatcher - INFO - Gmail service initialized
+2026-03-27 00:47:08,922 - GmailWatcher - INFO - Gmail credentials: E:\GIAIC\Quarter-04\ai_employee_fte_Hackathon_0\credentials.json
+2026-03-27 00:47:08,923 - GmailWatcher - INFO - Gmail token: E:\GIAIC\Quarter-04\ai_employee_fte_Hackathon_0\watchers\token.json
+2026-03-27 00:47:08,926 - GmailWatcher - INFO - Starting GmailWatcher
+2026-03-27 00:47:08,927 - GmailWatcher - INFO - Vault path: ..\AI_Employee_Vault
+2026-03-27 00:47:08,927 - GmailWatcher - INFO - Check interval: 120s
+2026-03-27 00:47:10,199 - GmailWatcher - INFO - Found 1 new messages
+2026-03-27 00:47:10,200 - GmailWatcher - INFO - Found 1 new item(s)
+2026-03-27 00:47:10,965 - GmailWatcher - INFO - Created action file for email: Re: Greeting !
+2026-03-27 00:47:10,966 - GmailWatcher - INFO - Created action file: EMAIL_Re_ Greeting !_20260327_004710.md
+2026-03-27 00:54:41,303 - GmailWatcher - INFO - GmailWatcher stopped by user
+2026-03-27 00:54:45,424 - GmailWatcher - INFO - Loaded 6 processed message IDs from cache
+2026-03-27 00:54:45,429 - GmailWatcher - INFO - Loaded existing OAuth token
+2026-03-27 00:54:46,624 - GmailWatcher - INFO - Refreshed OAuth token
+2026-03-27 00:54:46,644 - GmailWatcher - INFO - Gmail service initialized
+2026-03-27 00:54:46,645 - GmailWatcher - INFO - Gmail credentials: E:\GIAIC\Quarter-04\ai_employee_fte_Hackathon_0\credentials.json
+2026-03-27 00:54:46,647 - GmailWatcher - INFO - Gmail token: E:\GIAIC\Quarter-04\ai_employee_fte_Hackathon_0\watchers\token.json
+2026-03-27 00:54:46,664 - GmailWatcher - INFO - Starting GmailWatcher
+2026-03-27 00:54:46,673 - GmailWatcher - INFO - Vault path: ..\AI_Employee_Vault
+2026-03-27 00:54:46,675 - GmailWatcher - INFO - Check interval: 120s
+2026-03-27 00:54:48,236 - GmailWatcher - INFO - Found 1 new messages
+2026-03-27 00:54:48,237 - GmailWatcher - INFO - Found 1 new item(s)
+2026-03-27 00:54:49,739 - GmailWatcher - INFO - Created action file for email: Meeting
+2026-03-27 00:54:49,740 - GmailWatcher - INFO - Created action file: EMAIL_Meeting_20260327_005448.md
+2026-03-27 01:15:49,282 - GmailWatcher - INFO - GmailWatcher stopped by user
+2026-03-27 01:15:55,511 - GmailWatcher - INFO - Loaded 7 processed message IDs from cache
+2026-03-27 01:15:55,516 - GmailWatcher - INFO - Loaded existing OAuth token
+2026-03-27 01:15:56,719 - GmailWatcher - INFO - Refreshed OAuth token
+2026-03-27 01:15:56,744 - GmailWatcher - INFO - Gmail service initialized
+2026-03-27 01:15:56,745 - GmailWatcher - INFO - Gmail credentials: E:\GIAIC\Quarter-04\ai_employee_fte_Hackathon_0\credentials.json
+2026-03-27 01:15:56,750 - GmailWatcher - INFO - Gmail token: E:\GIAIC\Quarter-04\ai_employee_fte_Hackathon_0\watchers\token.json
+2026-03-27 01:15:56,761 - GmailWatcher - INFO - Starting GmailWatcher
+2026-03-27 01:15:56,762 - GmailWatcher - INFO - Vault path: ..\AI_Employee_Vault
+2026-03-27 01:15:56,766 - GmailWatcher - INFO - Check interval: 120s
+2026-03-27 01:17:35,218 - GmailWatcher - INFO - GmailWatcher stopped by user
+2026-03-27 01:17:38,896 - GmailWatcher - INFO - Loaded 7 processed message IDs from cache
+2026-03-27 01:17:38,900 - GmailWatcher - INFO - Loaded existing OAuth token
+2026-03-27 01:17:40,016 - GmailWatcher - INFO - Refreshed OAuth token
+2026-03-27 01:17:40,037 - GmailWatcher - INFO - Gmail service initialized
+2026-03-27 01:17:40,038 - GmailWatcher - INFO - Gmail credentials: E:\GIAIC\Quarter-04\ai_employee_fte_Hackathon_0\credentials.json
+2026-03-27 01:17:40,040 - GmailWatcher - INFO - Gmail token: E:\GIAIC\Quarter-04\ai_employee_fte_Hackathon_0\watchers\token.json
+2026-03-27 01:17:40,061 - GmailWatcher - INFO - Starting GmailWatcher
+2026-03-27 01:17:40,066 - GmailWatcher - INFO - Vault path: ..\AI_Employee_Vault
+2026-03-27 01:17:40,067 - GmailWatcher - INFO - Check interval: 120s
+2026-03-27 01:17:41,201 - GmailWatcher - INFO - Found 1 new messages
+2026-03-27 01:17:41,202 - GmailWatcher - INFO - Found 1 new item(s)
+2026-03-27 01:17:41,938 - GmailWatcher - INFO - Created action file for email: Meeting
+2026-03-27 01:17:41,939 - GmailWatcher - INFO - Created action file: EMAIL_Meeting_20260327_011741.md
+2026-03-27 01:39:16,975 - GmailWatcher - INFO - GmailWatcher stopped by user
+2026-03-27 01:39:21,008 - GmailWatcher - INFO - Loaded 8 processed message IDs from cache
+2026-03-27 01:39:21,013 - GmailWatcher - INFO - Loaded existing OAuth token
+2026-03-27 01:39:22,113 - GmailWatcher - INFO - Refreshed OAuth token
+2026-03-27 01:39:22,135 - GmailWatcher - INFO - Gmail service initialized
+2026-03-27 01:39:22,136 - GmailWatcher - INFO - Gmail credentials: E:\GIAIC\Quarter-04\ai_employee_fte_Hackathon_0\credentials.json
+2026-03-27 01:39:22,139 - GmailWatcher - INFO - Gmail token: E:\GIAIC\Quarter-04\ai_employee_fte_Hackathon_0\watchers\token.json
+2026-03-27 01:39:22,153 - GmailWatcher - INFO - Starting GmailWatcher
+2026-03-27 01:39:22,158 - GmailWatcher - INFO - Vault path: ..\AI_Employee_Vault
+2026-03-27 01:39:22,159 - GmailWatcher - INFO - Check interval: 120s
+2026-03-27 01:39:23,323 - GmailWatcher - INFO - Found 1 new messages
+2026-03-27 01:39:23,325 - GmailWatcher - INFO - Found 1 new item(s)
+2026-03-27 01:39:24,042 - GmailWatcher - INFO - Created action file for email: Greeting
+2026-03-27 01:39:24,043 - GmailWatcher - INFO - Created action file: EMAIL_Greeting_20260327_013923.md
+2026-03-27 01:51:25,806 - GmailWatcher - INFO - Found 1 new messages
+2026-03-27 01:51:25,807 - GmailWatcher - INFO - Found 1 new item(s)
+2026-03-27 01:51:26,490 - GmailWatcher - INFO - Created action file for email: Greeting
+2026-03-27 01:51:26,491 - GmailWatcher - INFO - Created action file: EMAIL_Greeting_20260327_015126.md
+2026-03-27 01:55:47,729 - GmailWatcher - INFO - GmailWatcher stopped by user
+2026-03-27 01:55:51,809 - GmailWatcher - INFO - Loaded 10 processed message IDs from cache
+2026-03-27 01:55:51,814 - GmailWatcher - INFO - Loaded existing OAuth token
+2026-03-27 01:55:52,833 - GmailWatcher - INFO - Refreshed OAuth token
+2026-03-27 01:55:52,848 - GmailWatcher - INFO - Gmail service initialized
+2026-03-27 01:55:52,849 - GmailWatcher - INFO - Gmail credentials: E:\GIAIC\Quarter-04\ai_employee_fte_Hackathon_0\credentials.json
+2026-03-27 01:55:52,850 - GmailWatcher - INFO - Gmail token: E:\GIAIC\Quarter-04\ai_employee_fte_Hackathon_0\watchers\token.json
+2026-03-27 01:55:52,857 - GmailWatcher - INFO - Starting GmailWatcher
+2026-03-27 01:55:52,859 - GmailWatcher - INFO - Vault path: ..\AI_Employee_Vault
+2026-03-27 01:55:52,860 - GmailWatcher - INFO - Check interval: 120s
+2026-03-27 02:00:32,500 - GmailWatcher - INFO - GmailWatcher stopped by user
+2026-03-27 02:00:35,732 - GmailWatcher - INFO - Loaded 10 processed message IDs from cache
+2026-03-27 02:00:35,739 - GmailWatcher - INFO - Loaded existing OAuth token
+2026-03-27 02:00:36,785 - GmailWatcher - INFO - Refreshed OAuth token
+2026-03-27 02:00:36,793 - GmailWatcher - INFO - Gmail service initialized
+2026-03-27 02:00:36,793 - GmailWatcher - INFO - Gmail credentials: E:\GIAIC\Quarter-04\ai_employee_fte_Hackathon_0\credentials.json
+2026-03-27 02:00:36,795 - GmailWatcher - INFO - Gmail token: E:\GIAIC\Quarter-04\ai_employee_fte_Hackathon_0\watchers\token.json
+2026-03-27 02:00:36,800 - GmailWatcher - INFO - Starting GmailWatcher
+2026-03-27 02:00:36,801 - GmailWatcher - INFO - Vault path: ..\AI_Employee_Vault
+2026-03-27 02:00:36,801 - GmailWatcher - INFO - Check interval: 60s
+2026-03-27 02:01:06,167 - GmailWatcher - INFO - GmailWatcher stopped by user

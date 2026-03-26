@@ -1,0 +1,121 @@
+2026-03-25 02:10:13,932 - LinkedInWatcher - INFO - Starting LinkedInWatcher
+2026-03-25 02:10:13,933 - LinkedInWatcher - INFO - Vault path: ..\AI_Employee_Vault
+2026-03-25 02:10:13,934 - LinkedInWatcher - INFO - Session path: ..\AI_Employee_Vault\.linkedin_session
+2026-03-25 02:10:13,935 - LinkedInWatcher - INFO - Check interval: 300s
+2026-03-25 02:10:14,880 - LinkedInWatcher - ERROR - Could not initialize browser: BrowserType.launch_persistent_context() got multiple values for argument 'user_data_dir'
+2026-03-25 02:13:47,530 - LinkedInWatcher - INFO - Loaded LinkedIn cache: 0 notifications, 0 messages
+2026-03-25 02:14:04,641 - LinkedInWatcher - INFO - LinkedInWatcher stopped by user
+2026-03-25 02:14:07,326 - LinkedInWatcher - INFO - Loaded LinkedIn cache: 0 notifications, 0 messages
+2026-03-25 02:14:07,336 - LinkedInWatcher - INFO - Starting LinkedInWatcher
+2026-03-25 02:14:07,337 - LinkedInWatcher - INFO - Vault path: ..\AI_Employee_Vault
+2026-03-25 02:14:07,337 - LinkedInWatcher - INFO - Session path: ..\AI_Employee_Vault\.linkedin_session
+2026-03-25 02:14:07,338 - LinkedInWatcher - INFO - Check interval: 300s
+2026-03-25 02:14:09,284 - LinkedInWatcher - INFO - Browser initialized
+2026-03-25 02:14:09,284 - LinkedInWatcher - INFO - Navigating to LinkedIn...
+2026-03-25 02:14:34,875 - LinkedInWatcher - WARNING - Not logged into LinkedIn. Please log in manually.
+2026-03-25 02:14:34,876 - LinkedInWatcher - INFO - Found 1 new activity item(s)
+2026-03-25 02:14:34,879 - LinkedInWatcher - INFO - Created action file: LINKEDIN_LOGIN_20260325_021434.md
+2026-03-25 02:19:30,641 - LinkedInWatcher - INFO - Loaded LinkedIn cache: 0 notifications, 0 messages
+2026-03-25 02:19:35,113 - LinkedInWatcher - ERROR - Could not initialize browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-03-25 02:23:10,153 - LinkedInWatcher - INFO - LinkedInWatcher stopped by user
+2026-03-25 02:23:12,536 - LinkedInWatcher - INFO - Loaded LinkedIn cache: 0 notifications, 0 messages
+2026-03-25 02:23:12,546 - LinkedInWatcher - INFO - Starting LinkedInWatcher
+2026-03-25 02:23:12,547 - LinkedInWatcher - INFO - Vault path: ..\AI_Employee_Vault
+2026-03-25 02:23:12,547 - LinkedInWatcher - INFO - Session path: ..\AI_Employee_Vault\.linkedin_session
+2026-03-25 02:23:12,548 - LinkedInWatcher - INFO - Check interval: 300s
+2026-03-25 02:23:15,030 - LinkedInWatcher - INFO - Browser initialized (visible mode for login)
+2026-03-25 02:23:15,037 - LinkedInWatcher - INFO - Navigating to LinkedIn...
+2026-03-25 02:23:27,669 - LinkedInWatcher - WARNING - Not logged into LinkedIn. Please log in manually.
+2026-03-25 02:23:27,670 - LinkedInWatcher - INFO - Found 1 new activity item(s)
+2026-03-25 02:23:27,672 - LinkedInWatcher - INFO - Created action file: LINKEDIN_LOGIN_20260325_022327.md
+2026-03-25 02:25:56,555 - LinkedInWatcher - INFO - LinkedInWatcher stopped by user
+2026-03-25 02:25:59,595 - LinkedInWatcher - INFO - Loaded LinkedIn cache: 0 notifications, 0 messages
+2026-03-25 02:25:59,605 - LinkedInWatcher - INFO - Starting LinkedInWatcher
+2026-03-25 02:25:59,606 - LinkedInWatcher - INFO - Vault path: ..\AI_Employee_Vault
+2026-03-25 02:25:59,606 - LinkedInWatcher - INFO - Session path: ..\AI_Employee_Vault\.linkedin_session
+2026-03-25 02:25:59,607 - LinkedInWatcher - INFO - Check interval: 300s
+2026-03-25 02:26:02,052 - LinkedInWatcher - INFO - Browser initialized (visible mode for login)
+2026-03-25 02:26:02,086 - LinkedInWatcher - INFO - Navigating to LinkedIn...
+2026-03-25 02:26:15,061 - LinkedInWatcher - WARNING - Not logged into LinkedIn. Please log in manually.
+2026-03-25 02:26:15,062 - LinkedInWatcher - INFO - Found 1 new activity item(s)
+2026-03-25 02:26:15,072 - LinkedInWatcher - INFO - Created action file: LINKEDIN_LOGIN_20260325_022615.md
+2026-03-25 02:26:43,537 - LinkedInWatcher - INFO - LinkedInWatcher stopped by user
+2026-03-25 02:26:46,464 - LinkedInWatcher - INFO - Loaded LinkedIn cache: 0 notifications, 0 messages
+2026-03-25 02:26:46,477 - LinkedInWatcher - INFO - Starting LinkedInWatcher
+2026-03-25 02:26:46,478 - LinkedInWatcher - INFO - Vault path: ..\AI_Employee_Vault
+2026-03-25 02:26:46,479 - LinkedInWatcher - INFO - Session path: ..\AI_Employee_Vault\.linkedin_session
+2026-03-25 02:26:46,480 - LinkedInWatcher - INFO - Check interval: 300s
+2026-03-25 02:26:48,486 - LinkedInWatcher - INFO - Browser initialized (visible mode for login)
+2026-03-25 02:26:48,487 - LinkedInWatcher - INFO - Navigating to LinkedIn...
+2026-03-25 02:27:00,594 - LinkedInWatcher - WARNING - Not logged into LinkedIn. Please log in manually.
+2026-03-25 02:27:00,594 - LinkedInWatcher - INFO - Found 1 new activity item(s)
+2026-03-25 02:27:00,598 - LinkedInWatcher - INFO - Created action file: LINKEDIN_LOGIN_20260325_022700.md
+2026-03-25 02:29:46,302 - LinkedInWatcher - INFO - Loaded LinkedIn cache: 0 notifications, 0 messages
+2026-03-25 02:30:57,750 - LinkedInWatcher - INFO - LinkedInWatcher stopped by user
+2026-03-25 02:31:00,310 - LinkedInWatcher - INFO - Loaded LinkedIn cache: 0 notifications, 0 messages
+2026-03-25 02:31:00,320 - LinkedInWatcher - INFO - Starting LinkedInWatcher
+2026-03-25 02:31:00,320 - LinkedInWatcher - INFO - Vault path: ..\AI_Employee_Vault
+2026-03-25 02:31:00,321 - LinkedInWatcher - INFO - Session path: ..\AI_Employee_Vault\.linkedin_session
+2026-03-25 02:31:00,322 - LinkedInWatcher - INFO - Check interval: 300s
+2026-03-25 02:31:02,241 - LinkedInWatcher - INFO - Browser initialized (visible mode for login)
+2026-03-25 02:31:02,251 - LinkedInWatcher - INFO - Navigating to LinkedIn...
+2026-03-25 02:31:07,326 - LinkedInWatcher - INFO - Popup window detected
+2026-03-25 02:31:31,292 - LinkedInWatcher - INFO - Found 0 notifications
+2026-03-25 02:31:38,389 - LinkedInWatcher - INFO - Found 0 conversations
+2026-03-25 02:33:20,146 - LinkedInWatcher - INFO - Loaded LinkedIn cache: 0 notifications, 0 messages
+2026-03-25 02:33:44,483 - LinkedInWatcher - INFO - LinkedInWatcher stopped by user
+2026-03-25 02:33:49,912 - LinkedInWatcher - INFO - Loaded LinkedIn cache: 0 notifications, 0 messages
+2026-03-25 02:33:49,924 - LinkedInWatcher - INFO - Starting LinkedInWatcher
+2026-03-25 02:33:49,924 - LinkedInWatcher - INFO - Vault path: ..\AI_Employee_Vault
+2026-03-25 02:33:49,925 - LinkedInWatcher - INFO - Session path: ..\AI_Employee_Vault\.linkedin_session
+2026-03-25 02:33:49,926 - LinkedInWatcher - INFO - Check interval: 300s
+2026-03-25 02:33:52,177 - LinkedInWatcher - INFO - Browser initialized (visible mode for login)
+2026-03-25 02:33:52,179 - LinkedInWatcher - INFO - Navigating to LinkedIn...
+2026-03-25 02:33:56,541 - LinkedInWatcher - INFO - Popup window detected
+2026-03-25 02:34:21,116 - LinkedInWatcher - INFO - Found 0 notifications
+2026-03-25 02:34:27,521 - LinkedInWatcher - INFO - Found 0 conversations
+2026-03-25 02:36:06,388 - LinkedInWatcher - INFO - Loaded LinkedIn cache: 0 notifications, 0 messages
+2026-03-25 02:38:02,579 - LinkedInWatcher - INFO - LinkedInWatcher stopped by user
+2026-03-25 02:38:06,205 - LinkedInWatcher - INFO - Loaded LinkedIn cache: 0 notifications, 0 messages
+2026-03-25 02:38:06,217 - LinkedInWatcher - INFO - Starting LinkedInWatcher
+2026-03-25 02:38:06,217 - LinkedInWatcher - INFO - Vault path: ..\AI_Employee_Vault
+2026-03-25 02:38:06,218 - LinkedInWatcher - INFO - Session path: ..\AI_Employee_Vault\.linkedin_session
+2026-03-25 02:38:06,219 - LinkedInWatcher - INFO - Check interval: 300s
+2026-03-25 02:38:08,069 - LinkedInWatcher - INFO - Browser initialized (visible mode for login)
+2026-03-25 02:38:08,076 - LinkedInWatcher - INFO - Navigating to LinkedIn...
+2026-03-25 02:38:12,520 - LinkedInWatcher - INFO - Popup window detected
+2026-03-25 02:38:12,661 - LinkedInWatcher - INFO - Waiting for page to fully load (300 seconds)...
+2026-03-25 02:43:27,420 - LinkedInWatcher - INFO - Found 0 notifications
+2026-03-25 02:43:33,656 - LinkedInWatcher - INFO - Found 0 conversations
+2026-03-25 02:48:34,206 - LinkedInWatcher - ERROR - Could not initialize browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-03-25 02:49:44,931 - LinkedInWatcher - INFO - LinkedInWatcher stopped by user
+2026-03-25 02:54:07,359 - LinkedInWatcher - INFO - Loaded LinkedIn cache: 0 notifications, 0 messages
+2026-03-25 02:54:07,369 - LinkedInWatcher - INFO - Starting LinkedInWatcher
+2026-03-25 02:54:07,370 - LinkedInWatcher - INFO - Vault path: ..\AI_Employee_Vault
+2026-03-25 02:54:07,371 - LinkedInWatcher - INFO - Session path: ..\AI_Employee_Vault\.linkedin_session
+2026-03-25 02:54:07,371 - LinkedInWatcher - INFO - Check interval: 300s
+2026-03-25 02:54:09,432 - LinkedInWatcher - INFO - Browser initialized (visible mode for login)
+2026-03-25 02:54:09,443 - LinkedInWatcher - INFO - Navigating to LinkedIn...
+2026-03-25 02:55:09,464 - LinkedInWatcher - WARNING - Navigation error (may be popup): Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.linkedin.com/", waiting until "networkidle"
+
+2026-03-25 02:55:19,481 - LinkedInWatcher - INFO - Waiting for page to fully load (300 seconds)...
+2026-03-25 02:56:27,936 - LinkedInWatcher - INFO - Popup window detected
+2026-03-25 03:00:33,841 - LinkedInWatcher - INFO - Found 0 notifications
+2026-03-25 03:00:39,798 - LinkedInWatcher - INFO - Found 0 conversations
+2026-03-25 03:05:40,295 - LinkedInWatcher - ERROR - Could not initialize browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-03-25 03:10:40,297 - LinkedInWatcher - ERROR - Could not initialize browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-03-25 03:15:40,300 - LinkedInWatcher - ERROR - Could not initialize browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-03-25 03:20:40,304 - LinkedInWatcher - ERROR - Could not initialize browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-03-25 03:25:40,319 - LinkedInWatcher - ERROR - Could not initialize browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-03-25 03:30:40,326 - LinkedInWatcher - ERROR - Could not initialize browser: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+2026-03-25 03:35:16,705 - LinkedInWatcher - INFO - LinkedInWatcher stopped by user

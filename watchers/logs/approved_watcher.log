@@ -1,0 +1,243 @@
+2026-03-27 00:35:42,109 - INFO - ============================================================
+2026-03-27 00:35:42,161 - INFO -    Vault: ..\AI_Employee_Vault
+2026-03-27 00:35:42,161 - INFO -    Approved: ..\AI_Employee_Vault\Approved
+2026-03-27 00:35:42,162 - INFO -    Check Interval: 30s
+2026-03-27 00:35:42,162 - INFO - ============================================================
+2026-03-27 00:35:42,163 - INFO - Waiting for approval files... (Press Ctrl+C to stop)
+2026-03-27 00:35:42,180 - INFO -    To: Nazim Akhter <nazim.akhter99@gmail.com>
+2026-03-27 00:35:42,181 - INFO -    Subject: Re: Greeting !
+2026-03-27 00:35:44,662 - INFO -    To: Nazim Akhter <nazim.akhter99@gmail.com>
+2026-03-27 00:35:44,663 - INFO -    Subject: Re: Greeting
+2026-03-27 00:42:38,099 - INFO - ============================================================
+2026-03-27 00:42:38,100 - INFO - Approved Email Watcher Starting...
+2026-03-27 00:42:38,100 - INFO -    Vault: ..\AI_Employee_Vault
+2026-03-27 00:42:38,100 - INFO -    Approved: ..\AI_Employee_Vault\Approved
+2026-03-27 00:42:38,101 - INFO -    Check Interval: 30s
+2026-03-27 00:42:38,101 - INFO - ============================================================
+2026-03-27 00:42:38,101 - INFO - Waiting for approval files... (Press Ctrl+C to stop)
+2026-03-27 00:50:27,315 - INFO - Total sent: 0, Errors: 0
+2026-03-27 00:50:32,903 - INFO - ============================================================
+2026-03-27 00:50:32,903 - INFO - Approved Email Watcher Starting...
+2026-03-27 00:50:32,905 - INFO -    Vault: ..\AI_Employee_Vault
+2026-03-27 00:50:32,908 - INFO -    Approved: ..\AI_Employee_Vault\Approved
+2026-03-27 00:50:32,909 - INFO -    Check Interval: 30s
+2026-03-27 00:50:32,910 - INFO - ============================================================
+2026-03-27 00:50:32,911 - INFO - Waiting for approval files... (Press Ctrl+C to stop)
+2026-03-27 00:51:16,965 - INFO - Total sent: 0, Errors: 0
+2026-03-27 00:55:04,922 - INFO - ============================================================
+2026-03-27 00:55:04,922 - INFO - Approved Email Watcher Starting...
+2026-03-27 00:55:04,924 - INFO -    Vault: ..\AI_Employee_Vault
+2026-03-27 00:55:04,927 - INFO -    Approved: ..\AI_Employee_Vault\Approved
+2026-03-27 00:55:04,928 - INFO -    Check Interval: 30s
+2026-03-27 00:55:04,929 - INFO - ============================================================
+2026-03-27 00:55:04,930 - INFO - Waiting for approval files... (Press Ctrl+C to stop)
+2026-03-27 00:56:24,342 - INFO - Total sent: 0, Errors: 0
+2026-03-27 00:56:27,178 - INFO - ============================================================
+2026-03-27 00:56:27,179 - INFO - Approved Email Watcher Starting...
+2026-03-27 00:56:27,183 - INFO -    Vault: ..\AI_Employee_Vault
+2026-03-27 00:56:27,185 - INFO -    Approved: ..\AI_Employee_Vault\Approved
+2026-03-27 00:56:27,186 - INFO -    Check Interval: 30s
+2026-03-27 00:56:27,188 - INFO - ============================================================
+2026-03-27 00:56:27,189 - INFO - Waiting for approval files... (Press Ctrl+C to stop)
+2026-03-27 01:05:33,079 - INFO - ============================================================
+2026-03-27 01:05:33,079 - INFO - Approved Email Watcher Starting...
+2026-03-27 01:05:33,080 - INFO -    Vault: ..\AI_Employee_Vault
+2026-03-27 01:05:33,080 - INFO -    Approved: ..\AI_Employee_Vault\Approved
+2026-03-27 01:05:33,080 - INFO -    Check Interval: 30s
+2026-03-27 01:05:33,081 - INFO - ============================================================
+2026-03-27 01:05:33,081 - INFO - Waiting for approval files... (Press Ctrl+C to stop)
+2026-03-27 01:05:33,083 - INFO - Found 4 approval file(s)
+2026-03-27 01:05:33,083 - INFO - 
+Processing: EMAIL_Re_ Greeting !_20260327_004710.md
+2026-03-27 01:05:33,085 - INFO -    To: zhstore04@gmail.com
+2026-03-27 01:05:33,085 - INFO -    Subject: Re: Greeting !
+2026-03-27 01:05:33,100 - INFO -    Sending...
+2026-03-27 01:05:40,301 - INFO -    Sent! Message ID: 19d2bc0a94d7bc40
+2026-03-27 01:05:40,303 - INFO -    Moved to Done
+2026-03-27 01:05:40,304 - INFO - 
+Processing: EMAIL_Greeting_20260326_030008.md
+2026-03-27 01:05:40,305 - INFO -    To: nazim.akhter99@gmail.com
+2026-03-27 01:05:40,306 - INFO -    Subject: Re: Greeting
+2026-03-27 01:05:40,306 - INFO -    Body: Good Night
+
+
+
+-- 
+
+With Best Regards:
+
+Nazim Akhter
+
+0321-9205688
+
+
+
+---...
+2026-03-27 01:05:40,309 - INFO -    Sending...
+2026-03-27 01:05:40,912 - INFO -    Sent! Message ID: 19d2bc0ad6b1286c
+2026-03-27 01:05:40,915 - INFO -    Moved to Done
+2026-03-27 01:05:40,916 - INFO - 
+Processing: EMAIL_Greeting !_20260326_020759.md
+2026-03-27 01:05:40,917 - INFO -    To: nazim.akhter99@gmail.com
+2026-03-27 01:05:40,918 - INFO -    Subject: Re: Greeting !
+2026-03-27 01:05:40,918 - INFO -    Body: Hello from N. Akhter
+
+
+
+-- 
+
+With Best Regards:
+
+Nazim Akhter
+
+0321-9205688
+
+
+
+---...
+2026-03-27 01:05:40,921 - INFO -    Sending...
+2026-03-27 01:05:41,496 - INFO -    Sent! Message ID: 19d2bc0af10467ba
+2026-03-27 01:05:41,499 - INFO -    Moved to Done
+2026-03-27 01:05:41,499 - INFO - 
+Processing: EMAIL_Meeting_20260327_005448.md
+2026-03-27 01:05:41,501 - INFO -    To: nazim.akhter99@gmail.com
+2026-03-27 01:05:41,501 - INFO -    Subject: Re: Meeting
+2026-03-27 01:05:41,502 - INFO -    Body: I want to meeting with Sale Manager on Friday at 03:00 pm
+
+
+
+-- 
+
+With Best Regards:
+
+Nazim Akhter
+
+...
+2026-03-27 01:05:41,504 - INFO -    Sending...
+2026-03-27 01:05:42,390 - INFO -    Sent! Message ID: 19d2bc0b15bb40a8
+2026-03-27 01:05:42,394 - INFO -    Moved to Done
+2026-03-27 01:16:04,604 - INFO - Total sent: 0, Errors: 0
+2026-03-27 01:16:08,892 - INFO - ============================================================
+2026-03-27 01:16:08,893 - INFO - Approved Email Watcher Starting...
+2026-03-27 01:16:08,895 - INFO -    Vault: ..\AI_Employee_Vault
+2026-03-27 01:16:08,898 - INFO -    Approved: ..\AI_Employee_Vault\Approved
+2026-03-27 01:16:08,899 - INFO -    Check Interval: 30s
+2026-03-27 01:16:08,900 - INFO - ============================================================
+2026-03-27 01:16:08,901 - INFO - Waiting for approval files... (Press Ctrl+C to stop)
+2026-03-27 01:18:08,908 - INFO - Found 1 approval file(s)
+2026-03-27 01:18:08,909 - INFO - 
+Processing: EMAIL_Meeting_20260327_011741.md
+2026-03-27 01:18:08,917 - INFO -    To: nazim.akhter99@gmail.com
+2026-03-27 01:18:08,918 - INFO -    Subject: Re: Meeting
+2026-03-27 01:18:08,922 - INFO -    Body: I want to meeting with you on Friday at 03:30 PM
+
+-- 
+
+With Best Regards:
+
+Nazim Akhter
+
+0321-920568...
+2026-03-27 01:18:08,924 - INFO -    Sending...
+2026-03-27 01:18:16,950 - INFO -    Sent! Message ID: 19d2bcc35655b5c8
+2026-03-27 01:18:16,956 - INFO -    Moved to Done
+2026-03-27 01:20:43,943 - INFO - Total sent: 1, Errors: 0
+2026-03-27 01:37:53,341 - INFO - ============================================================
+2026-03-27 01:37:53,342 - INFO - Approved Email Watcher Starting...
+2026-03-27 01:37:53,344 - INFO -    Vault: ..\AI_Employee_Vault
+2026-03-27 01:37:53,347 - INFO -    Approved: ..\AI_Employee_Vault\Approved
+2026-03-27 01:37:53,348 - INFO -    Check Interval: 30s
+2026-03-27 01:37:53,349 - INFO - ============================================================
+2026-03-27 01:37:53,350 - INFO - Waiting for approval files... (Press Ctrl+C to stop)
+2026-03-27 01:39:53,367 - INFO - Found 1 approval file(s)
+2026-03-27 01:39:53,369 - INFO - 
+Processing: EMAIL_Greeting_20260327_013923.md
+2026-03-27 01:39:53,380 - INFO -    To: nazim.akhter99@gmail.com
+2026-03-27 01:39:53,381 - INFO -    Subject: Re: Greeting
+2026-03-27 01:39:53,384 - INFO -    Generating reply with Qwen Code...
+2026-03-27 01:39:53,389 - INFO -    Using fallback reply
+2026-03-27 01:39:53,394 - INFO -    Reply generated (143 chars)
+2026-03-27 01:39:53,400 - INFO -    Sending...
+2026-03-27 01:39:56,118 - INFO -    Sent! Message ID: 19d2be008b9e517d
+2026-03-27 01:39:56,120 - ERROR - Error processing EMAIL_Greeting_20260327_013923.md: ApprovedEmailWatcher._update_file() takes 4 positional arguments but 5 were given
+2026-03-27 01:40:26,123 - INFO - Found 1 approval file(s)
+2026-03-27 01:40:26,124 - INFO - 
+Processing: EMAIL_Greeting_20260327_013923.md
+2026-03-27 01:40:26,126 - INFO -    To: nazim.akhter99@gmail.com
+2026-03-27 01:40:26,129 - INFO -    Subject: Re: Greeting
+2026-03-27 01:40:26,130 - INFO -    Generating reply with Qwen Code...
+2026-03-27 01:40:26,139 - INFO -    Using fallback reply
+2026-03-27 01:40:26,140 - INFO -    Reply generated (143 chars)
+2026-03-27 01:40:26,143 - INFO -    Sending...
+2026-03-27 01:40:26,692 - INFO -    Sent! Message ID: 19d2be081055ba5b
+2026-03-27 01:40:26,692 - ERROR - Error processing EMAIL_Greeting_20260327_013923.md: ApprovedEmailWatcher._update_file() takes 4 positional arguments but 5 were given
+2026-03-27 01:40:56,698 - INFO - Found 1 approval file(s)
+2026-03-27 01:40:56,699 - INFO - 
+Processing: EMAIL_Greeting_20260327_013923.md
+2026-03-27 01:40:56,704 - INFO -    To: nazim.akhter99@gmail.com
+2026-03-27 01:40:56,707 - INFO -    Subject: Re: Greeting
+2026-03-27 01:40:56,708 - INFO -    Generating reply with Qwen Code...
+2026-03-27 01:40:56,710 - INFO -    Using fallback reply
+2026-03-27 01:40:56,710 - INFO -    Reply generated (143 chars)
+2026-03-27 01:40:56,711 - INFO -    Sending...
+2026-03-27 01:40:57,302 - INFO -    Sent! Message ID: 19d2be0f85a11b34
+2026-03-27 01:40:57,375 - ERROR - Error processing EMAIL_Greeting_20260327_013923.md: ApprovedEmailWatcher._update_file() takes 4 positional arguments but 5 were given
+2026-03-27 01:41:27,406 - INFO - Found 1 approval file(s)
+2026-03-27 01:41:27,407 - INFO - 
+Processing: EMAIL_Greeting_20260327_013923.md
+2026-03-27 01:41:27,410 - INFO -    To: nazim.akhter99@gmail.com
+2026-03-27 01:41:27,414 - INFO -    Subject: Re: Greeting
+2026-03-27 01:41:27,416 - INFO -    Generating reply with Qwen Code...
+2026-03-27 01:41:27,426 - INFO -    Using fallback reply
+2026-03-27 01:41:27,427 - INFO -    Reply generated (143 chars)
+2026-03-27 01:41:27,428 - INFO -    Sending...
+2026-03-27 01:41:27,854 - INFO -    Sent! Message ID: 19d2be16e64e30d8
+2026-03-27 01:41:27,855 - ERROR - Error processing EMAIL_Greeting_20260327_013923.md: ApprovedEmailWatcher._update_file() takes 4 positional arguments but 5 were given
+2026-03-27 01:41:57,858 - INFO - Found 1 approval file(s)
+2026-03-27 01:41:57,860 - INFO - 
+Processing: EMAIL_Greeting_20260327_013923.md
+2026-03-27 01:41:57,869 - INFO -    To: nazim.akhter99@gmail.com
+2026-03-27 01:41:57,870 - INFO -    Subject: Re: Greeting
+2026-03-27 01:41:57,873 - INFO -    Generating reply with Qwen Code...
+2026-03-27 01:41:57,882 - INFO -    Using fallback reply
+2026-03-27 01:41:57,885 - INFO -    Reply generated (143 chars)
+2026-03-27 01:41:57,888 - INFO -    Sending...
+2026-03-27 01:41:58,477 - INFO -    Sent! Message ID: 19d2be1e6b166d69
+2026-03-27 01:41:58,479 - ERROR - Error processing EMAIL_Greeting_20260327_013923.md: ApprovedEmailWatcher._update_file() takes 4 positional arguments but 5 were given
+2026-03-27 01:42:26,005 - INFO - Total sent: 0, Errors: 5
+2026-03-27 01:49:01,537 - INFO - ============================================================
+2026-03-27 01:49:01,537 - INFO - Approved Email Watcher Starting...
+2026-03-27 01:49:01,537 - INFO -    Vault: ..\AI_Employee_Vault
+2026-03-27 01:49:01,537 - INFO -    Approved: ..\AI_Employee_Vault\Approved
+2026-03-27 01:49:01,537 - INFO -    Check Interval: 30s
+2026-03-27 01:49:01,537 - INFO - ============================================================
+2026-03-27 01:49:01,537 - INFO - Waiting for approval files... (Press Ctrl+C to stop)
+2026-03-27 01:49:01,538 - INFO - Found 1 approval file(s)
+2026-03-27 01:49:01,538 - INFO - 
+Processing: EMAIL_Greeting_20260327_013923.md
+2026-03-27 01:49:01,539 - INFO -    To: nazim.akhter99@gmail.com
+2026-03-27 01:49:01,540 - INFO -    Subject: Re: Greeting
+2026-03-27 01:49:01,540 - INFO -    Generating reply with Qwen Code...
+2026-03-27 01:49:01,548 - INFO -    Using fallback reply
+2026-03-27 01:49:01,548 - INFO -    Reply generated (143 chars)
+2026-03-27 01:49:01,548 - INFO -    Sending...
+2026-03-27 01:49:04,361 - INFO -    Sent! Message ID: 19d2be8672b898c9
+2026-03-27 01:49:04,366 - INFO -    Moved to Done
+2026-03-27 01:51:00,864 - INFO - ============================================================
+2026-03-27 01:51:00,864 - INFO - Approved Email Watcher Starting...
+2026-03-27 01:51:00,866 - INFO -    Vault: ..\AI_Employee_Vault
+2026-03-27 01:51:00,870 - INFO -    Approved: ..\AI_Employee_Vault\Approved
+2026-03-27 01:51:00,871 - INFO -    Check Interval: 30s
+2026-03-27 01:51:00,872 - INFO - ============================================================
+2026-03-27 01:51:00,873 - INFO - Waiting for approval files... (Press Ctrl+C to stop)
+2026-03-27 01:54:30,885 - INFO - Found 1 approval file(s)
+2026-03-27 01:54:30,886 - INFO - 
+Processing: EMAIL_Greeting_20260327_015126.md
+2026-03-27 01:54:30,894 - INFO -    To: nazim.akhter99@gmail.com
+2026-03-27 01:54:30,895 - INFO -    Subject: Re: Greeting
+2026-03-27 01:54:30,897 - INFO -    Generating reply with Qwen Code...
+2026-03-27 01:54:30,903 - INFO -    Using fallback reply
+2026-03-27 01:54:30,906 - INFO -    Reply generated (142 chars)
+2026-03-27 01:54:30,910 - INFO -    Sending...
+2026-03-27 01:54:33,361 - INFO -    Sent! Message ID: 19d2bed6cd42f2b0
+2026-03-27 01:54:33,367 - INFO -    Moved to Done

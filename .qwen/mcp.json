@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "email": {
+      "command": "python",
+      "args": ["E:/GIAIC/Quarter-04/ai_employee_fte_Hackathon_0/watchers/email_mcp_server.py"]
+    },
+    "browser": {
+      "command": "npx",
+      "args": ["-y", "@playwright/mcp@latest"],
+      "env": {
+        "HEADLESS": "false"
+      }
+    },
+    "filesystem": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-filesystem", "E:/GIAIC/Quarter-04/ai_employee_fte_Hackathon_0/AI_Employee_Vault"]
+    }
+  }
+}
